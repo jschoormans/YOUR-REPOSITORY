@@ -1,0 +1,19 @@
+{
+  "name": "your-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschoormans/YOUR-REPOSITORY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jschoormans/YOUR-REPOSITORY/issues"
+  },
+  "homepage": "https://github.com/jschoormans/YOUR-REPOSITORY#readme"
+}
