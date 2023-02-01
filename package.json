@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jschoormans/YOUR-REPOSITORY/issues"
   },
-  "homepage": "https://github.com/jschoormans/YOUR-REPOSITORY#readme"
+  "homepage": "https://github.com/jschoormans/YOUR-REPOSITORY#readme",
+  "publishConfig": {
+    "@jschoormans:registry": "https://npm.pkg.github.com"
+  }
 }
